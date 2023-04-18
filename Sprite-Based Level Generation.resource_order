@@ -17,6 +17,7 @@
     {"name":"obj_enemy","order":1,"path":"objects/obj_enemy/obj_enemy.yy",},
     {"name":"spr_player_run","order":1,"path":"sprites/spr_player_run/spr_player_run.yy",},
     {"name":"Font2","order":5,"path":"fonts/Font2/Font2.yy",},
+    {"name":"Object7","order":7,"path":"objects/Object7/Object7.yy",},
     {"name":"spr_hud_life","order":5,"path":"sprites/spr_hud_life/spr_hud_life.yy",},
     {"name":"spr_coin","order":4,"path":"sprites/spr_coin/spr_coin.yy",},
     {"name":"obj_generator","order":4,"path":"objects/obj_generator/obj_generator.yy",},
