@@ -426,8 +426,8 @@
   "last": 0,
   "maintainGms1Font": false,
   "parent": {
-    "name": "Sprite-Based Level Generation",
-    "path": "Sprite-Based Level Generation.yyp",
+    "name": "Fonts",
+    "path": "folders/Fonts.yy",
   },
   "pointRounding": 0,
   "ranges": [
