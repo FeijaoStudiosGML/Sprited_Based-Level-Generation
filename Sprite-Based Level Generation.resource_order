@@ -1,0 +1,26 @@
+{
+  "FolderOrderSettings": [
+    {"name":"Objects","order":2,"path":"folders/Objects.yy",},
+    {"name":"Scripts","order":1,"path":"folders/Scripts.yy",},
+    {"name":"Sprites","order":3,"path":"folders/Sprites.yy",},
+    {"name":"Levels","order":6,"path":"folders/Sprites/Levels.yy",},
+  ],
+  "ResourceOrderSettings": [
+    {"name":"spr_level2","order":2,"path":"sprites/spr_level2/spr_level2.yy",},
+    {"name":"spr_enemy","order":2,"path":"sprites/spr_enemy/spr_enemy.yy",},
+    {"name":"spr_level1","order":1,"path":"sprites/spr_level1/spr_level1.yy",},
+    {"name":"spr_level4","order":4,"path":"sprites/spr_level4/spr_level4.yy",},
+    {"name":"spr_level3","order":3,"path":"sprites/spr_level3/spr_level3.yy",},
+    {"name":"Font3","order":6,"path":"fonts/Font3/Font3.yy",},
+    {"name":"obj_coin","order":3,"path":"objects/obj_coin/obj_coin.yy",},
+    {"name":"obj_gameOver","order":5,"path":"objects/obj_gameOver/obj_gameOver.yy",},
+    {"name":"obj_enemy","order":1,"path":"objects/obj_enemy/obj_enemy.yy",},
+    {"name":"spr_player_run","order":1,"path":"sprites/spr_player_run/spr_player_run.yy",},
+    {"name":"Font2","order":5,"path":"fonts/Font2/Font2.yy",},
+    {"name":"spr_hud_life","order":5,"path":"sprites/spr_hud_life/spr_hud_life.yy",},
+    {"name":"spr_coin","order":4,"path":"sprites/spr_coin/spr_coin.yy",},
+    {"name":"obj_generator","order":4,"path":"objects/obj_generator/obj_generator.yy",},
+    {"name":"obj_wall","order":2,"path":"objects/obj_wall/obj_wall.yy",},
+    {"name":"spr_wall","order":3,"path":"sprites/spr_wall/spr_wall.yy",},
+  ],
+}
